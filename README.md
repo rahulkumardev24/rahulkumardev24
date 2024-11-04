@@ -2,11 +2,11 @@
 <h3 align="center">A passionate flutter app developer from India</h3>
 
 <!-- GIF image -->
-<img align="right" alt="coding" width="400" src="https://github.com/rahulkumardev24/rahulkumardev24/blob/main/ezgif.com-optimize.gif">
+<img align="right" alt="coding" width="200" src="https://github.com/rahulkumardev24/rahulkumardev24/blob/main/ezgif.com-optimize.gif">
 
 <!-- Profile views counter -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rahulkumardev24&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumardev24" /> 
+  <img src="https://komarev.com/ghpvc/?username=rahulkumardev24&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumardev24"  /> 
 </p>
 
 <!-- Social Media Links -->

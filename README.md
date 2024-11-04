@@ -2,7 +2,7 @@
 <h3 align="center">A passionate flutter app developer from India</h3>
 
 <!-- GIF image -->
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1124806/screenshots/4876982/ezgif.com-optimize.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/rahulkumardev24/rahulkumardev24/blob/main/ezgif.com-optimize.gif">
 
 <!-- Profile views counter -->
 <p align="left"> 

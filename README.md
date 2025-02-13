@@ -9,11 +9,12 @@
 ---
 
 ### 🌐 Profile Views
-<p align="center">
+<div style="display: inline-block; border-radius: 14; overflow: hidden;">
   <a href="https://github.com/rahulkumardev24">
     <img src="https://komarev.com/ghpvc/?username=rahulkumardev24&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   </a>
-</p>
+</div>
+
 
 ---
 
@@ -23,7 +24,7 @@ I'm a **Flutter Developer** with a passion for building beautiful, user-friendly
 ---
 
 ### 🔗 Connect With Me
-<div align="center">
+<div align="start">
   <a href="https://linkedin.com/in/rahulkumardev24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -44,7 +45,7 @@ I'm a **Flutter Developer** with a passion for building beautiful, user-friendly
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
+<p align="start">
   <!-- Flutter & Dart -->
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
@@ -73,7 +74,7 @@ I'm a **Flutter Developer** with a passion for building beautiful, user-friendly
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulkumardev24&show_icons=true&theme=nightowl" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumardev24&layout=compact&theme=nightowl" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumardev24&theme=nightowl" alt="GitHub Streak" />
@@ -82,7 +83,7 @@ I'm a **Flutter Developer** with a passion for building beautiful, user-friendly
 ---
 
 ### 🏆 GitHub Trophies
-<div align="center">
+<div align="start">
   <img src="https://github-profile-trophy.vercel.app/?username=rahulkumardev24&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
@@ -102,9 +103,5 @@ I enjoy solving Rubik's cubes 🧩, playing chess ♟️, and exploring creative
 ### 📫 Let's Collaborate!
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/rahulkumardev24) or [Email](mailto:rahulsahudev24@gmail.com). Let's build something amazing together! 🚀
 
----
 
-<p align="center">
-  <img src="https://github.com/rahulkumardev24/rahulkumardev24/blob/main/ezgif.com-optimize.gif" alt="Thank You" width="200" />
-</p>
-<h3 align="center">Thank you for visiting my profile! 😄</h3>
+<h2 align="center">Thank you for visiting my profile! 😄</h2>

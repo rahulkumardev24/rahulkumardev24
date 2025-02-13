@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Sahu</h1>
-<h3 align="center">A passionate Flutter app developer from India </h3>
+<h3 align="center">A passionate Flutter app developer from India 🚀</h3>
 
 <!-- GIF animation -->
 <div align="center">
@@ -10,8 +10,10 @@
 
 ### 🌐 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkumardev24&label=PROFILE%20VIEWS&color=00BFFF&style=flat" alt="Profile Views" />
-</p> 
+  <a href="https://github.com/rahulkumardev24">
+    <img src="https://komarev.com/ghpvc/?username=rahulkumardev24&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
@@ -43,20 +45,29 @@ I'm a **Flutter Developer** with a passion for building beautiful, user-friendly
 
 ### 🛠️ Tech Stack
 <p align="center">
+  <!-- Flutter & Dart -->
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
+  
+  <!-- Backend & Databases -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+  
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  
+  <!-- Web Development -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  
+  <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
 </p>
 
 ---
@@ -79,15 +90,14 @@ I'm a **Flutter Developer** with a passion for building beautiful, user-friendly
 
 ### 🎯 Goals and Vision
 - 🌟 Striving to become a **Full-Stack Developer**.
-- 🧩 Exploring the latest trends in **Flutter**, **Firebase**, and **Kotlin**.
-- 🚀 Passionate about creating user-friendly, innovative mobile apps.
+- 🧩 Exploring the latest trends in **Flutter**, **Firebase**, **Supabase**, and **JavaScript**.
+- 🚀 Passionate about creating user-friendly, innovative mobile and web apps.
 - 💡 Open to new opportunities and collaborations in tech development.
 
+---
 
 ### 💡 Fun Fact
 I enjoy solving Rubik's cubes 🧩, playing chess ♟️, and exploring creative app ideas. 😄
-
----
 
 ### 📫 Let's Collaborate!
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/rahulkumardev24) or [Email](mailto:rahulsahudev24@gmail.com). Let's build something amazing together! 🚀

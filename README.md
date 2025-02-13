@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Sahu</h1>
-<h3 align="center">A passionate Flutter app developer from India 🚀</h3>
+<h3 align="center">A passionate Flutter app developer from India </h3>
 
 <!-- GIF animation -->
 <div align="center">
@@ -10,15 +10,20 @@
 
 ### 🌐 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkumardev24&label=PROFILE%20VIEWS&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=rahulkumardev24&label=PROFILE%20VIEWS&color=00BFFF&style=flat" alt="Profile Views" />
+</p> 
+
+---
+
+### 🚀 About Me
+I'm a **Flutter Developer** with a passion for building beautiful, user-friendly, and high-performance mobile applications. I love exploring new technologies and turning ideas into reality. My goal is to become a **Full-Stack Developer** and contribute to innovative projects that make a difference.
 
 ---
 
 ### 🔗 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/rahulkumardev24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/kumar_339" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -29,11 +34,14 @@
   <a href="https://auth.geeksforgeeks.org/user/rkrahulro58oi" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
+  <a href="https://rahulkumardev24.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
@@ -47,15 +55,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumardev24&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumardev24&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumardev24&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumardev24&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumardev24&layout=compact&theme=nightowl" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumardev24&theme=nightowl" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumardev24&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -66,7 +83,18 @@
 - 🚀 Passionate about creating user-friendly, innovative mobile apps.
 - 💡 Open to new opportunities and collaborations in tech development.
 
----
 
 ### 💡 Fun Fact
 I enjoy solving Rubik's cubes 🧩, playing chess ♟️, and exploring creative app ideas. 😄
+
+---
+
+### 📫 Let's Collaborate!
+If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/rahulkumardev24) or [Email](mailto:rahulsahudev24@gmail.com). Let's build something amazing together! 🚀
+
+---
+
+<p align="center">
+  <img src="https://github.com/rahulkumardev24/rahulkumardev24/blob/main/ezgif.com-optimize.gif" alt="Thank You" width="200" />
+</p>
+<h3 align="center">Thank you for visiting my profile! 😄</h3>

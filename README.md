@@ -3,7 +3,7 @@
 
 <!-- GIF animation -->
 <div align="center">
-  <img src="https://github.com/rahulkumardev24/rahulkumardev24/blob/main/ezgif.com-optimize.gif" alt="Coding GIF" width=1000 />
+  <img src="https://github.com/rahulkumardev24/rahulkumardev24/blob/main/ezgif.com-optimize.gif" alt="Coding GIF" />
 </div>
 
 ---

@@ -28,7 +28,7 @@ I'm a **Flutter Developer** with a passion for building beautiful, user-friendly
   <a href="https://linkedin.com/in/rahulkumardev24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/kumar_339" target="_blank">
+  <a href="https://www.instagram.com/rahulkumardev24/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://dribbble.com/rahul_kumar_dev_24" target="_blank">
